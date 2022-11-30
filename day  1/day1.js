@@ -14,7 +14,7 @@ function test(){
 
     ++a;
     console.log(a);
-    //bsiahl
+    //bsiahl 
     console.log(b)
     document.write(a);
     for(var i=0;i<10;i++)
