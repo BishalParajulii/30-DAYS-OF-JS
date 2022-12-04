@@ -20,3 +20,7 @@ console.log(bishal.split(''))
 document.write(bishal.charCodeAt(8))
 document.write(bishal.indexOf('a'))
 document.write(bishal.search('D'))
+for(let i=1;i<10;i++)
+{
+    console.log(i);
+}
